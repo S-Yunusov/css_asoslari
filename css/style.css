@@ -3,6 +3,17 @@ body{
 }
 
 h1{
-  color: red;
+  color: rgba(208, 98, 98, 0.8);
   background: #000;  
 }
+
+p{
+  /*HEX -  0123456789-/-abcdef */
+  /* background: rrggbb; */
+  background-color: #123456;
+  color: #51813d;
+}
+
+/* RGB - (RGBA) */
+/* HEX (16 lik sanoq tizimi) */
+/* HSL - hue, saturation, lightness */
